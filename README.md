@@ -11,11 +11,11 @@ Features
   
 - QR Code Customization:
   
-         . Change the QR code color.
+   . Change the QR code color.
   
-         . Customize the background color.
+   . Customize the background color.
   
-         . Upload custom images for the QR background.
+   . Upload custom images for the QR background.
   
 - Download QR Codes: Generated QR codes can be downloaded as PNG images.
 
