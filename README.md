@@ -25,15 +25,12 @@ Installation
     
              git clone https://github.com/DawitGebeyehu12/QR-code-generator
              
-   2. Navigate to the project directory:
-
-              cd my-app   
-              
-   3. Install the dependencies:
+ 
+   2. Install the dependencies:
 
             npm install
       
-   4. Start the development server:
+   3. Start the development server:
 
             npm start
-  5. Open your browser and go to http://localhost:3000 to view the app.
+   4. Open your browser and go to http://localhost:3000 to view the app.
